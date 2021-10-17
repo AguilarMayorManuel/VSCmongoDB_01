@@ -6,7 +6,7 @@ Este proyecto consiste en la creación de una base de datos, en la que he creado
 
 En este proyecto hay dos carpetas:
 
--En la carpeta ["src"] hay una serie de archivos con la extensión .js, el archivo insert.js contiene métodos para insertar documentos en colecciones, el archivo consultas.js tiene enunciados que se resuelven con métodos.
+-En la carpeta ["src"](https://github.com/AguilarMayorManuel/VSCmongoDB_01/tree/main/src) hay una serie de archivos con la extensión .js, el archivo insert.js contiene métodos para insertar documentos en colecciones, el archivo consultas.js tiene enunciados que se resuelven con métodos y operadores.
 
 -En la carpeta ["doc"] hay un pdf que explica la instalación de MongoDB y de Visual Studio Code, y una explicación de los comandos y métodos utilizados en mi colección. 
 

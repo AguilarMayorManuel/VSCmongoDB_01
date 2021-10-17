@@ -1,3 +1,5 @@
+db.col001.insertOne({Trabajadores: 7})
+db.col001.deleteMany({})
 db.col001.insertMany(
     [
         {name: "Elena", country: "Nicaragua", age: 55, size: {h: 1.75, w: 80}, shift: "morning"},
