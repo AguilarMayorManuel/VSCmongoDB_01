@@ -10,4 +10,5 @@ En este proyecto hay dos carpetas:
 
 -En la carpeta ["doc"](https://github.com/AguilarMayorManuel/VSCmongoDB_01/tree/main/doc) hay un pdf que explica la instalación de MongoDB y de Visual Studio Code, y una explicación de los comandos y métodos utilizados en mi colección. 
 
-                                                  ![...](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHDN7Vm-3XJ2BiV3GoEmAc3Y68Q0LTFejjwg&usqp=CAU)
+                     
+![...](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHDN7Vm-3XJ2BiV3GoEmAc3Y68Q0LTFejjwg&usqp=CAU)
